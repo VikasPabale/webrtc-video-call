@@ -68,6 +68,8 @@ Allow camera and microphone access
 Video will connect peer-to-peer
 
 - Demo Video
+  A demo of the WebRTC Video Call application can be viewed/downloaded here:
+  https://github.com//VikasPabale/webrtc-video-call/releases/download/v1.0.0/Screen.Recording.2025-11-30.040636.mp4
 
 - Author
   Vikas Pabale
